@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//resource/druid.properties=UTF-8
+encoding//src/com/server/WebSocketServer.java=UTF-8
+encoding//src/com/server/WebSocketServerHandler.java=UTF-8
+encoding//src/com/test/TestReader.java=UTF-8
+encoding//src/com/test/TestWriter.java=UTF-8
